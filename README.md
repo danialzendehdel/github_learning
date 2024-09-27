@@ -66,5 +66,21 @@ This is a footnote[^1]. Another footnote[^2].
 | Five   |  Six     |  $.99    |
 
 
+***
+
+ - [x] First 
+   - [x] one
+   - [ ] two
+ - [ ] seond
+
+***
 
 
+<details>
+<summary>collapsed</summary>
+
+# Header
+
+This is the copy for the collapsed text. 
+
+</details> 
